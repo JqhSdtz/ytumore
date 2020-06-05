@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/changeDB/changeDB.iml" filepath="$PROJECT_DIR$/changeDB/changeDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crawlClassInfo/crawlClassInfo.iml" filepath="$PROJECT_DIR$/crawlClassInfo/crawlClassInfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crawlClassTimeTable/crawlClassTimeTable.iml" filepath="$PROJECT_DIR$/crawlClassTimeTable/crawlClassTimeTable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crawlEmptyRoomInfo/crawlEmptyRoomInfo.iml" filepath="$PROJECT_DIR$/crawlEmptyRoomInfo/crawlEmptyRoomInfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytumore.iml" filepath="$PROJECT_DIR$/ytumore.iml" />
+    </modules>
+  </component>
+</project>

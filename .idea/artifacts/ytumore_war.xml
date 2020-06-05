@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ytumore:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/ytumore_war</output-path>
+    <root id="archive" name="ytumore_war.war">
+      <element id="artifact" artifact-name="ytumore:war exploded" />
+    </root>
+  </artifact>
+</component>

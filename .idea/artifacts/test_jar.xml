@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="test:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/test_jar</output-path>
+    <root id="archive" name="test.jar">
+      <element id="module-output" name="test" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/web/WEB-INF/lib/c3p0-0.9.5.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/web/WEB-INF/lib/standard.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/web/WEB-INF/lib/sqlite-jdbc-3.23.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/web/WEB-INF/lib/json-20180813.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/web/WEB-INF/lib/mchange-commons-java-0.2.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/web/WEB-INF/lib/jsoup-1.11.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/web/WEB-INF/lib/c3p0-oracle-thin-extras-0.9.5.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/web/WEB-INF/lib/jstl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-8.0.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/web/WEB-INF/lib/Tess4J/lib/jna-4.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/web/WEB-INF/lib/Tess4J/lib/lept4j-1.6.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/web/WEB-INF/lib/Tess4J/lib/slf4j-api-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/web/WEB-INF/lib/Tess4J/lib/jul-to-slf4j-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/web/WEB-INF/lib/Tess4J/lib/jcl-over-slf4j-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/web/WEB-INF/lib/Tess4J/lib/jai-imageio-core-1.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/test/lib/tomcat-util.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

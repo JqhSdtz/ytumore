@@ -1,0 +1,107 @@
+
+/*移动端*/
+@media (max-device-width: 1000px) {
+	#main {
+		width: 80%;
+		margin-left: 10%;
+		margin-top: 20%;
+	}
+}
+
+/*PC端*/
+@media (min-device-width: 1024px) {
+	#main {
+		width: 80%;
+		margin-left: 10%;
+		margin-top: 10%;
+	}
+}
+
+.pIcon, .subIcon {
+	font-size: 4rem;
+	color: #233333;
+}
+
+.sec .subIcon {
+	position: absolute;
+	left: 4.5rem;
+	margin-top: 0.25rem;
+	font-size: 2rem;
+	background-color: white;
+}
+
+.subCircle {
+	clip-path: circle(0.85rem at 0.85rem 1rem);
+}
+
+#subCheck {
+	clip: rect(0.15rem, 2rem, 1.7rem, 0);
+	border-top-left-radius: 0.65rem;
+}
+
+#subUserCircle {
+	clip-path: circle(0.94rem at 0.94rem 1.1rem);
+	font-size: 2.2rem;
+}
+
+#subGroupCircle {
+	clip-path: circle(0.94rem at 0.94rem 1.1rem);
+	font-size: 2.2rem;
+}
+
+#subRoomCircle {
+	clip-path: circle(0.94rem at 0.94rem 1.1rem);
+	font-size: 2.2rem;
+}
+
+#subUser {
+	font-size: 1.25rem;
+	background: none;
+	margin-left: 0.45rem;
+	margin-top: 0.65rem;
+}
+
+#subGroup, #subRoom {
+	font-size: 1rem;
+	background: none;
+	margin-left: 0.425rem;
+	margin-top: 0.85rem;
+}
+
+#cookieBtnGrp {
+	position: absolute;
+	top: 2rem;
+	right: 10%;
+}
+
+#appPrompt {
+	position: fixed;
+	display: none;
+	bottom: 0;
+	width: 100%;
+	height: 5rem;
+	border: #233333 solid 0.2rem;
+	background-color: rgba(250,250,250,0.7);
+}
+
+#appPromptClose {
+	position: absolute;
+	right: 1rem;
+	top: 1rem;
+}
+
+#appIcon {
+	position: absolute;
+	height: 4rem;
+	left: 3rem;
+	top: 0.5rem;
+	border: #233333 solid 0.1rem;
+}
+
+#appStatement {
+	position: absolute;
+	left: 8.5rem;
+	top: 1rem;
+	font-weight: bold;
+	font-size: 1rem;
+}
